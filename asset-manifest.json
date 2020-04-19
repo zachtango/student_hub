@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/student_hub/static/css/main.7af9a5de.chunk.css",
-    "main.js": "/student_hub/static/js/main.ee5dde7e.chunk.js",
-    "main.js.map": "/student_hub/static/js/main.ee5dde7e.chunk.js.map",
+    "main.js": "/student_hub/static/js/main.a84adc58.chunk.js",
+    "main.js.map": "/student_hub/static/js/main.a84adc58.chunk.js.map",
     "runtime-main.js": "/student_hub/static/js/runtime-main.d1c5bdc3.js",
     "runtime-main.js.map": "/student_hub/static/js/runtime-main.d1c5bdc3.js.map",
     "static/js/2.5a639f08.chunk.js": "/student_hub/static/js/2.5a639f08.chunk.js",
     "static/js/2.5a639f08.chunk.js.map": "/student_hub/static/js/2.5a639f08.chunk.js.map",
     "index.html": "/student_hub/index.html",
-    "precache-manifest.538ee0baa7f1bc51f4aebba971ecc450.js": "/student_hub/precache-manifest.538ee0baa7f1bc51f4aebba971ecc450.js",
+    "precache-manifest.84a17df521610d683aedad9a0e542f1f.js": "/student_hub/precache-manifest.84a17df521610d683aedad9a0e542f1f.js",
     "service-worker.js": "/student_hub/service-worker.js",
     "static/css/main.7af9a5de.chunk.css.map": "/student_hub/static/css/main.7af9a5de.chunk.css.map",
     "static/js/2.5a639f08.chunk.js.LICENSE.txt": "/student_hub/static/js/2.5a639f08.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d1c5bdc3.js",
     "static/js/2.5a639f08.chunk.js",
     "static/css/main.7af9a5de.chunk.css",
-    "static/js/main.ee5dde7e.chunk.js"
+    "static/js/main.a84adc58.chunk.js"
   ]
 }
