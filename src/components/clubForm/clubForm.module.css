@@ -1,0 +1,26 @@
+.ClubForm{
+    margin-top: 20px;
+}
+h3{
+    width: 350px;
+    margin: 0 auto 0 auto;
+}
+
+.time{
+    margin: 0 auto 0 auto;
+    width: 200px;
+}
+
+form{
+    margin: 10px auto 10px auto;
+    width: 350px;
+}
+
+.label{
+    width: 50px;
+    display: inline-block;
+}
+
+input, select{
+    margin: 10px auto 10px 10px;
+}

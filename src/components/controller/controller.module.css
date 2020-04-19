@@ -1,0 +1,15 @@
+.Controller{
+    width: 600px;
+    height: 100px;
+    border-radius: 20px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+.backgroundGreen{
+    background-color: rgb(153, 218, 153);
+}
+
+.backgroundRed{
+    background-color: rgb(218, 153, 153);
+}
